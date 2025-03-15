@@ -39,5 +39,6 @@ kubectl: Kubernetes command-line tool to interact with the cluster.
 Docker: For building and running containerized applications. 
 
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
