@@ -30,7 +30,7 @@
     "eslint-config-prettier": "^9.1.0",
     "http-server": "^14.1.1",
     "prettier": "^3.3.3",
-    "fast-xml-parser": "5.3.5"
+    "fast-xml-parser": "5.7.0"
   },
   "license": "SEE LICENSE IN LICENSE"
 }
